@@ -4,4 +4,4 @@
 <jsp:forward page="main.do" />
 강기원 테스트fgasdgasdhgasgasgasdg
 asdgasdg
-asdgas
+asdgasAEWSG
