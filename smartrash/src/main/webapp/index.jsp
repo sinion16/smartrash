@@ -2,6 +2,4 @@
     pageEncoding="UTF-8"%>
 
 <jsp:forward page="main.do" />
-dddd
-
-<!-- 박수빈 작성 12-->
+15
