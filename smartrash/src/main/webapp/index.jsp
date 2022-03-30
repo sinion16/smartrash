@@ -2,4 +2,6 @@
     pageEncoding="UTF-8"%>
 
 <jsp:forward page="main.do" />
-강기원 테스트  ㄴㅇㅇㄴㄹㄴㅇㄹㄴㄹㅇ
+강기원 테스트fgasdgasdhgasgasgasdg
+asdgasdg
+asdgas
