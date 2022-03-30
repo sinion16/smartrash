@@ -2,4 +2,4 @@
     pageEncoding="UTF-8"%>
 
 <jsp:forward page="main.do" />
-강기원 테스트 4 입니다 
+강기원 테스트 5 입니다 
