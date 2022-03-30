@@ -4,4 +4,4 @@
 <jsp:forward page="main.do" />
 dddd
 
-<!-- 박수빈 작성 1-->
+<!-- 박수빈 작성 12-->
