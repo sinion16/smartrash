@@ -2,8 +2,4 @@
     pageEncoding="UTF-8"%>
 
 <jsp:forward page="main.do" />
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-강기원 테스트  ㄴㅇㅇㄴㄹㄴㅇㄹㄴㄹㅇ
->>>>>>> refs/remotes/origin/masterㄴ
+ㅁㄴㅇㅁㄴㅇㅁㄴㅇ
